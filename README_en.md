@@ -17,7 +17,7 @@ There're some links of SPD:
 There is an official blog for this project at [ShatteredPixel.com](https://www.shatteredpixel.com/blog/).
 
 
-Monsters Shattered Pixel Dungeon currently compiles for Android, iOS, and Desktop platforms. You can find official releases of the game on:
+Monsters Shattered Pixel Dungeon currently compiles for Android, iOS, and Desktop platforms. 
 
 If you like this game, please consider [star this project!](It's really important for me!)
 
