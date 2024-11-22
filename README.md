@@ -1,6 +1,6 @@
-# Monsters Shattered Pixel Dungeon---怪物的破碎地牢
+# Monsters Shattered Pixel Dungeon---怪物的像素地牢
 
-**怪物的破碎地牢**是一个基于**破碎的像素地牢**的个人模组,从整体上而言难度会比原版会**简单**一些。
+**怪物的像素地牢**是一个基于**破碎的像素地牢**的个人模组,从整体上而言难度会比原版会**简单**一些。
 
 所有代码都基于**破碎的像素地牢**,在这里感谢其作者**Evan**!
 
@@ -17,7 +17,7 @@
 破碎的像素地牢官方博客:[ShatteredPixel.com](https://www.shatteredpixel.com/blog/).
 
 
-怪物的破碎地牢当前可以在Android,IOS和桌面端上编译并运行。
+怪物的像素地牢当前可以在Android,IOS和桌面端上编译并运行。
 
 如果你喜欢这个模组，你可以考虑**星标这个项目!**(这对我来说真的很重要！)
 
@@ -30,6 +30,17 @@
 - [为桌面端平台编译](docs/getting-started-desktop.md)
 - [为IOS编译](docs/getting-started-ios.md)
 - [在你自己的版本中建议更改的部分:](docs/recommended-changes.md)
+
+#特色特点
+
+使用**碧蓝地牢(BAPD)**主题，感谢coco!
+
+初始血量上升至40点，每升一级血量增加10点。
+
+金币爆率上升至原版3倍！！
+
+更多文本本地化中文翻译…
+
 
 
 

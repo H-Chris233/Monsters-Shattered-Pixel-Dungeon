@@ -31,3 +31,12 @@ If you'd like to work with the code, you can find the following guides in `/docs
 - [Compiling for desktop platforms.](docs/getting-started-desktop.md)
 - [Compiling for iOS.](docs/getting-started-ios.md)
 - [Recommended changes for making your own version.](docs/recommended-changes.md)
+
+#Changes
+
+Use the theme of the BAPD,thanks to coco!
+
+Changed basic HP to 40 (20 by default),and add 10 HP on every level up.
+
+
+
