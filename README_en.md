@@ -1,5 +1,7 @@
 # Monsters Shattered Pixel Dungeon
 
+# **The project is banned!**
+
 MSPD is a personal mod project for Shattered Pixel Dungeon,it's easier to play than SPD. 
 
 Everything here is based on SPD,so thanks to Evan!
@@ -23,7 +25,7 @@ If you like this game, please consider [star this project!](It's really importan
 
 There is no plan to translate this  mod now. It will be in Chinese for a long time,and English will be the first translated language.
 
-Note that **this repository does not accept pull requests!** The code here is provided in hopes that others may find it useful for their own projects, not to allow community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are welcome.
+Note that **this repository does not accept pull requests!(Banned!)**
 
 If you'd like to work with the code, you can find the following guides in `/docs`:
 - [Compiling for Android.](docs/getting-started-android.md)
